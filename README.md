@@ -1,9 +1,9 @@
-# 🛡️ Locker Guard: Inactivity Alert System
+#  Locker Guard: Inactivity Alert System
 
-## 📖 Overview
+##  Overview
 I developed the **Locker Guard** system to bridge the gap between silent student data and proactive customer success. By monitoring locker activity in real-time, I built a system that identifies "at-risk" students (inactive for 3+ days) and triggers an automated check-in before they churn.
 
-## 🛠️ The Technical Stack
+## The Technical Stack
 * **Database:** Supabase (PostgreSQL)
 * **Automation:** Make.com
 * **Visualization:** Looker Studio
@@ -11,7 +11,7 @@ I developed the **Locker Guard** system to bridge the gap between silent student
 
 ---
 
-## 🏗️ Technical Implementation
+## Technical Implementation
 
 ### Phase 1: Data Infrastructure (Supabase)
 I configured a Supabase database to track student behavior, specifically monitoring the `last_opened` timestamp to calculate engagement.
@@ -39,7 +39,7 @@ The final result is a context-rich alert delivered directly to the support team 
 
 ---
 
-## 📈 Impact & Maintenance
+##  Impact & Maintenance
 * **Proactive Retention:** Identifying churn risk within 72 hours.
 * **Operational Efficiency:** Zero manual log-checking.
 * **Deployment:** The system is live, toggled **ON**, and scheduled to run daily at 8:41 PM.
@@ -47,5 +47,5 @@ The final result is a context-rich alert delivered directly to the support team 
 ![Figure 5: Active Deployment](images/image_1cecfb.png)
 *Figure 5: Scenario status showing active scheduling and live deployment.*
 
-## 💡 Conclusion
+##  Conclusion
 Building this system moved our support team from **reactive** (waiting for problems) to **proactive** (preventing churn). It is an efficient, scalable safety net that ensures we help students stay engaged before they decide to unsubscribe.
