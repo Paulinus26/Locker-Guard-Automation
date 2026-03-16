@@ -17,7 +17,7 @@ I developed the **Locker Guard** system to bridge the gap between silent student
 I configured a Supabase database to track student behavior, specifically monitoring the `last_opened` timestamp to calculate engagement.
 
 ![Figure 1]([images/image_e34428.png](https://github.com/Paulinus26/Locker-Guard-Automation/blob/28b475a8e730a990d9f8a2d49dc3907666e134c3/figure%201.png?raw=true))
-*Figure 1: The backend data view showing active records and activity timestamps.*
+*: The backend data view showing active records and activity timestamps.*
 
 ### Phase 2: Logic & Automation (Make.com)
 The core logic utilizes a rolling 72-hour window. I used the `addDays` and `formatDate` functions to flag students the moment they hit the inactivity threshold.
