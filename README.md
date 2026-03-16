@@ -22,7 +22,7 @@ I configured a Supabase database to track student behavior, specifically monitor
 ### Phase 2: Logic & Automation (Make.com)
 The core logic utilizes a rolling 72-hour window. I used the `addDays` and `formatDate` functions to flag students the moment they hit the inactivity threshold.
 
-![Figure 2](https://github.com/Paulinus26/Locker-Guard-Automation/blob/main/figure%202.png?raw=true) 
+![Figure 2](https://github.com/Paulinus26/Locker-Guard-Automation/blob/main/figure%202.png?raw=true)  
 *Figure 2: The logic engine filtering for students who haven't accessed their locker in 3+ days.*
 
 ### Phase 3: Visual Analytics (Looker Studio)
@@ -44,7 +44,7 @@ The final result is a context-rich alert delivered directly to the support team 
 * **Operational Efficiency:** Zero manual log-checking.
 * **Deployment:** The system is live, toggled **ON**, and scheduled to run daily at 8:41 PM.
 
-![Figure 5](https://github.com/Paulinus26/Locker-Guard-Automation/blob/main/cover4.png?raw=true) 
+![Figure 5](https://github.com/Paulinus26/Locker-Guard-Automation/blob/main/cover4.png?raw=true)  
 *Figure 5: Scenario status showing active scheduling and live deployment.*
 
 ##  Conclusion
