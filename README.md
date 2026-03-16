@@ -28,7 +28,7 @@ The core logic utilizes a rolling 72-hour window. I used the `addDays` and `form
 ### Phase 3: Visual Analytics (Looker Studio)
 I built a "Pause Risk" dashboard to provide the team with a bird's-eye view of campus health.
 
-![Figure 3: Retention Risk Dashboard](images/image_e2daa8.png)
+![Figure 3](https://github.com/Paulinus26/Locker-Guard-Automation/blob/main/figure%203.png?raw=true)
 *Figure 3: Risk Gauge and student list built using custom DATE_DIFF metrics.*
 
 ### Phase 4: Verification of Output (Gmail)
