@@ -35,7 +35,7 @@ I built a "Pause Risk" dashboard to provide the team with a bird's-eye view of c
 The final result is a context-rich alert delivered directly to the support team for immediate outreach.
 
 ![Figure 4](https://github.com/Paulinus26/Locker-Guard-Automation/blob/28b475a8e730a990d9f8a2d49dc3907666e134c3/figure%204.png?raw=true)
-*: The automated outreach email received in the inbox.*
+*figure 4: The automated outreach email received in the inbox.*
 
 ---
 
