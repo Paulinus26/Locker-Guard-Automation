@@ -34,7 +34,7 @@ I built a "Pause Risk" dashboard to provide the team with a bird's-eye view of c
 ### Phase 4: Verification of Output (Gmail)
 The final result is a context-rich alert delivered directly to the support team for immediate outreach.
 
-![Figure 4: Automated Inactivity Alert](images/image_e2bce4.png)
+![Figure 4]([images/image_e2bce4.png](https://github.com/Paulinus26/Locker-Guard-Automation/blob/28b475a8e730a990d9f8a2d49dc3907666e134c3/figure%204.png?raw=true))
 *Figure 4: The automated outreach email received in the inbox.*
 
 ---
